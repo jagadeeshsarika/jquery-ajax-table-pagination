@@ -1,6 +1,6 @@
 # [jquery-ajax-table-pagination](https://all-packages.github.io/jquery-ajax-table-pagination/)
 
-Why This Plugin Developed
+Why This Plugin Developedd
 -------------------------
 Generally every developer in their career they should create html table with pagination and search. Either data taking from server using ajax service call or static data. Using this plugin you can add add pagination and search  to html table easily. 
 
